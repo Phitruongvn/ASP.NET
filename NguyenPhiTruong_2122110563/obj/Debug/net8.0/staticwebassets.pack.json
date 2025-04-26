@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20240127053617.png",
+      "PackagePath": "staticwebassets\\uploads\\20240127053617.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229092027.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229092027.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229092537.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229092537.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229092932.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229092932.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229092942.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229092942.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229094917.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229094917.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\20241229095003.png",
+      "PackagePath": "staticwebassets\\uploads\\20241229095003.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\519pt.jpg",
+      "PackagePath": "staticwebassets\\uploads\\519pt.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Creed Royal Mayfair.webp",
+      "PackagePath": "staticwebassets\\uploads\\Creed Royal Mayfair.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Creed Virgin Island Water.webp",
+      "PackagePath": "staticwebassets\\uploads\\Creed Virgin Island Water.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Jo Malone London English Oak & Hazelnut.webp",
+      "PackagePath": "staticwebassets\\uploads\\Jo Malone London English Oak & Hazelnut.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Jo Malone London Osmanthus Cologne.webp",
+      "PackagePath": "staticwebassets\\uploads\\Jo Malone London Osmanthus Cologne.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Jo Malone tHEAM ANH TC.png",
+      "PackagePath": "staticwebassets\\uploads\\Jo Malone tHEAM ANH TC.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Jomalone Star Magonila.webp",
+      "PackagePath": "staticwebassets\\uploads\\Jomalone Star Magonila.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Mac13plus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Mac13plus.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Mac15+.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Mac15+.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Maison Margiela Replica Jazz Club.webp",
+      "PackagePath": "staticwebassets\\uploads\\Maison Margiela Replica Jazz Club.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Mancera So Blue.webp",
+      "PackagePath": "staticwebassets\\uploads\\Mancera So Blue.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Phi Trường.png",
+      "PackagePath": "staticwebassets\\uploads\\Phi Trường.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Phi Trường_1.png",
+      "PackagePath": "staticwebassets\\uploads\\Phi Trường_1.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Phi Trường_2.png",
+      "PackagePath": "staticwebassets\\uploads\\Phi Trường_2.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Phi Trường_3.png",
+      "PackagePath": "staticwebassets\\uploads\\Phi Trường_3.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Phi Trường_4.png",
+      "PackagePath": "staticwebassets\\uploads\\Phi Trường_4.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\Salvatore Ferragamo Oceani di Seta.webp",
+      "PackagePath": "staticwebassets\\uploads\\Salvatore Ferragamo Oceani di Seta.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\aigner.webp",
+      "PackagePath": "staticwebassets\\uploads\\aigner.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\allurechanel.jpg",
+      "PackagePath": "staticwebassets\\uploads\\allurechanel.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ao-thun-thun-3910.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ao-thun-thun-3910.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\argos.webp",
+      "PackagePath": "staticwebassets\\uploads\\argos.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\auod.webp",
+      "PackagePath": "staticwebassets\\uploads\\auod.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\baby.jpg",
+      "PackagePath": "staticwebassets\\uploads\\baby.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\back.jpg",
+      "PackagePath": "staticwebassets\\uploads\\back.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ban1 (1).webp",
+      "PackagePath": "staticwebassets\\uploads\\ban1 (1).webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ban1.webp",
+      "PackagePath": "staticwebassets\\uploads\\ban1.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ban2.webp",
+      "PackagePath": "staticwebassets\\uploads\\ban2.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ban3.webp",
+      "PackagePath": "staticwebassets\\uploads\\ban3.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\blanc.webp",
+      "PackagePath": "staticwebassets\\uploads\\blanc.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\bluechanel.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bluechanel.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\book3ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book3ultra.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\book4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\book4edge16.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book4edge16.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\book4ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\book4ultra.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\bookprto.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bookprto.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\bubbery.webp",
+      "PackagePath": "staticwebassets\\uploads\\bubbery.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\bubrose.webp",
+      "PackagePath": "staticwebassets\\uploads\\bubrose.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\chaneln19.jpg",
+      "PackagePath": "staticwebassets\\uploads\\chaneln19.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\chloe.webp",
+      "PackagePath": "staticwebassets\\uploads\\chloe.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ck.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ck.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\clary.webp",
+      "PackagePath": "staticwebassets\\uploads\\clary.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\cocochanel.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cocochanel.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\crush.webp",
+      "PackagePath": "staticwebassets\\uploads\\crush.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\david.webp",
+      "PackagePath": "staticwebassets\\uploads\\david.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\dolce.webp",
+      "PackagePath": "staticwebassets\\uploads\\dolce.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\explorer.webp",
+      "PackagePath": "staticwebassets\\uploads\\explorer.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\fer.webp",
+      "PackagePath": "staticwebassets\\uploads\\fer.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\furla.webp",
+      "PackagePath": "staticwebassets\\uploads\\furla.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\gabana.webp",
+      "PackagePath": "staticwebassets\\uploads\\gabana.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxnote205g.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxnote205g.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs21ultra.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs21ultra.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs22ultra.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs22ultra.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs23.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs23.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs234.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs234.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs23ultra.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs23ultra.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs24+.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs24+.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxs24.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxs24.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxw4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\glxw4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxw5pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\glxw5pro.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxw6.avif",
+      "PackagePath": "staticwebassets\\uploads\\glxw6.avif"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxw6classic.avif",
+      "PackagePath": "staticwebassets\\uploads\\glxw6classic.avif"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxwfit3.avif",
+      "PackagePath": "staticwebassets\\uploads\\glxwfit3.avif"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\glxzflip.webp",
+      "PackagePath": "staticwebassets\\uploads\\glxzflip.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\grac.webp",
+      "PackagePath": "staticwebassets\\uploads\\grac.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\gucciflora.jpg",
+      "PackagePath": "staticwebassets\\uploads\\gucciflora.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\guccimemoi.jpg",
+      "PackagePath": "staticwebassets\\uploads\\guccimemoi.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\guccygui.jpg",
+      "PackagePath": "staticwebassets\\uploads\\guccygui.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\guccypourhome.jpg",
+      "PackagePath": "staticwebassets\\uploads\\guccypourhome.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\h24.jpg",
+      "PackagePath": "staticwebassets\\uploads\\h24.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\hepink.webp",
+      "PackagePath": "staticwebassets\\uploads\\hepink.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\hermes.webp",
+      "PackagePath": "staticwebassets\\uploads\\hermes.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\image-thay-loi-dz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image-thay-loi-dz.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\image-thay-loi.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image-thay-loi.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip11.webp",
+      "PackagePath": "staticwebassets\\uploads\\ip11.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip11prm.webp",
+      "PackagePath": "staticwebassets\\uploads\\ip11prm.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip11pro.webp",
+      "PackagePath": "staticwebassets\\uploads\\ip11pro.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip12.webp",
+      "PackagePath": "staticwebassets\\uploads\\ip12.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip13.png",
+      "PackagePath": "staticwebassets\\uploads\\ip13.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip14.png",
+      "PackagePath": "staticwebassets\\uploads\\ip14.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip15.png",
+      "PackagePath": "staticwebassets\\uploads\\ip15.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ip15pr.png",
+      "PackagePath": "staticwebassets\\uploads\\ip15pr.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ipse.png",
+      "PackagePath": "staticwebassets\\uploads\\ipse.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ipxr.webp",
+      "PackagePath": "staticwebassets\\uploads\\ipxr.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ipxs.webp",
+      "PackagePath": "staticwebassets\\uploads\\ipxs.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ipxsm.webp",
+      "PackagePath": "staticwebassets\\uploads\\ipxsm.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ipxsn.webp",
+      "PackagePath": "staticwebassets\\uploads\\ipxsn.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jaco.webp",
+      "PackagePath": "staticwebassets\\uploads\\jaco.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jazzclub.webp",
+      "PackagePath": "staticwebassets\\uploads\\jazzclub.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jazzcub.webp",
+      "PackagePath": "staticwebassets\\uploads\\jazzcub.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jeanne.webp",
+      "PackagePath": "staticwebassets\\uploads\\jeanne.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jonsagesea.jpg",
+      "PackagePath": "staticwebassets\\uploads\\jonsagesea.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jonstar.jpg",
+      "PackagePath": "staticwebassets\\uploads\\jonstar.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jonwood.jpg",
+      "PackagePath": "staticwebassets\\uploads\\jonwood.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\jopink.webp",
+      "PackagePath": "staticwebassets\\uploads\\jopink.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\juicy.webp",
+      "PackagePath": "staticwebassets\\uploads\\juicy.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\juli.png",
+      "PackagePath": "staticwebassets\\uploads\\juli.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\killan.jpg",
+      "PackagePath": "staticwebassets\\uploads\\killan.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\lionchanel.jpg",
+      "PackagePath": "staticwebassets\\uploads\\lionchanel.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\logo.webp",
+      "PackagePath": "staticwebassets\\uploads\\logo.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\logo1.png",
+      "PackagePath": "staticwebassets\\uploads\\logo1.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\mac14.jpg",
+      "PackagePath": "staticwebassets\\uploads\\mac14.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\macair13+.jpg",
+      "PackagePath": "staticwebassets\\uploads\\macair13+.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\macair13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\macair13.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\macair15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\macair15.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\memo.webp",
+      "PackagePath": "staticwebassets\\uploads\\memo.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\missdior.jpg",
+      "PackagePath": "staticwebassets\\uploads\\missdior.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\misspink.webp",
+      "PackagePath": "staticwebassets\\uploads\\misspink.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\mono.webp",
+      "PackagePath": "staticwebassets\\uploads\\mono.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\narciso.webp",
+      "PackagePath": "staticwebassets\\uploads\\narciso.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\nautica.webp",
+      "PackagePath": "staticwebassets\\uploads\\nautica.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\noir.webp",
+      "PackagePath": "staticwebassets\\uploads\\noir.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\oak.webp",
+      "PackagePath": "staticwebassets\\uploads\\oak.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ocean.webp",
+      "PackagePath": "staticwebassets\\uploads\\ocean.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\osman.webp",
+      "PackagePath": "staticwebassets\\uploads\\osman.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\penha.jpg",
+      "PackagePath": "staticwebassets\\uploads\\penha.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\phi-truong-new-image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\phi-truong-new-image.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\polo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\polo.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\pourhome.webp",
+      "PackagePath": "staticwebassets\\uploads\\pourhome.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\pra.webp",
+      "PackagePath": "staticwebassets\\uploads\\pra.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\princess.webp",
+      "PackagePath": "staticwebassets\\uploads\\princess.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\purple.webp",
+      "PackagePath": "staticwebassets\\uploads\\purple.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\repfile.jpg",
+      "PackagePath": "staticwebassets\\uploads\\repfile.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\repjazz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\repjazz.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\replaz.webp",
+      "PackagePath": "staticwebassets\\uploads\\replaz.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\replazy.jpg",
+      "PackagePath": "staticwebassets\\uploads\\replazy.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\reppink.jpg",
+      "PackagePath": "staticwebassets\\uploads\\reppink.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\repsailing.jpg",
+      "PackagePath": "staticwebassets\\uploads\\repsailing.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\rose.webp",
+      "PackagePath": "staticwebassets\\uploads\\rose.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\royal.webp",
+      "PackagePath": "staticwebassets\\uploads\\royal.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\santal.webp",
+      "PackagePath": "staticwebassets\\uploads\\santal.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\seasagesalt.webp",
+      "PackagePath": "staticwebassets\\uploads\\seasagesalt.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\seta.webp",
+      "PackagePath": "staticwebassets\\uploads\\seta.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\soblue.webp",
+      "PackagePath": "staticwebassets\\uploads\\soblue.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ssa55.avif",
+      "PackagePath": "staticwebassets\\uploads\\ssa55.avif"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\super.webp",
+      "PackagePath": "staticwebassets\\uploads\\super.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\tamdao.jpg",
+      "PackagePath": "staticwebassets\\uploads\\tamdao.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\tomford.webp",
+      "PackagePath": "staticwebassets\\uploads\\tomford.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\un.webp",
+      "PackagePath": "staticwebassets\\uploads\\un.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\valen.webp",
+      "PackagePath": "staticwebassets\\uploads\\valen.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\verdylan.jpg",
+      "PackagePath": "staticwebassets\\uploads\\verdylan.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\verer.jpg",
+      "PackagePath": "staticwebassets\\uploads\\verer.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\verpour.jpg",
+      "PackagePath": "staticwebassets\\uploads\\verpour.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\vetiver.webp",
+      "PackagePath": "staticwebassets\\uploads\\vetiver.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\vic.webp",
+      "PackagePath": "staticwebassets\\uploads\\vic.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w1.png",
+      "PackagePath": "staticwebassets\\uploads\\w1.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w10.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w11.webp",
+      "PackagePath": "staticwebassets\\uploads\\w11.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w12.webp",
+      "PackagePath": "staticwebassets\\uploads\\w12.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w13.webp",
+      "PackagePath": "staticwebassets\\uploads\\w13.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w14.webp",
+      "PackagePath": "staticwebassets\\uploads\\w14.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w15.webp",
+      "PackagePath": "staticwebassets\\uploads\\w15.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w2.png",
+      "PackagePath": "staticwebassets\\uploads\\w2.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w3.png",
+      "PackagePath": "staticwebassets\\uploads\\w3.png"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w5.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w6.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w7.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w8.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\w9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\w9.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\week.webp",
+      "PackagePath": "staticwebassets\\uploads\\week.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\woodsea.webp",
+      "PackagePath": "staticwebassets\\uploads\\woodsea.webp"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ysllanuit.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ysllanuit.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ysllibre.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ysllibre.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ysllibree.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ysllibree.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\yslopinium.jpg",
+      "PackagePath": "staticwebassets\\uploads\\yslopinium.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\NguyenPhiTruong_2122110563\\NguyenPhiTruong_2122110563\\wwwroot\\uploads\\ysly.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ysly.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenPhiTruong_2122110563.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenPhiTruong_2122110563.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NguyenPhiTruong_2122110563.props",
+      "PackagePath": "build\\NguyenPhiTruong_2122110563.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenPhiTruong_2122110563.props",
+      "PackagePath": "buildMultiTargeting\\NguyenPhiTruong_2122110563.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NguyenPhiTruong_2122110563.props",
+      "PackagePath": "buildTransitive\\NguyenPhiTruong_2122110563.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

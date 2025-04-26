@@ -6,22 +6,19 @@
         public string ProductName { get; set; } = string.Empty;
         public string Image { get; set; } = string.Empty;
         public double Price { get; set; }
+        public double PriceSale { get; set; }       // ✅ Mới
+        public string? Content { get; set; }         // ✅ Mới
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public DateTime? UpdatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
 
-
-        // 🔹 Liên kết với Brand (One-to-Many)
         public int BrandId { get; set; }
         public Brand? Brand { get; set; }
-        
-      
 
-
-        // 🔹 Liên kết với Category (One-to-Many)
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
-        // 🔹 Liên kết với User (One-to-Many)
+
         public int UserId { get; set; }
         public User? User { get; set; }
     }
+
 }

@@ -458,4 +458,6 @@ D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\obj\Debug\net8.0\re
 D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\obj\Debug\net8.0\NguyenPhiTruong_2122110563.pdb
 D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\obj\Debug\net8.0\NguyenPhiTruong_2122110563.genruntimeconfig.cache
 D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\obj\Debug\net8.0\ref\NguyenPhiTruong_2122110563.dll
+D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP\NguyenPhiTruong_2122110563\NguyenPhiTruong_2122110563\bin\Debug\net8.0\NguyenPhiTruong_2122110563.staticwebassets.runtime.json

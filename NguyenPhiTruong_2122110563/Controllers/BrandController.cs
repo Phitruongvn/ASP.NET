@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NguyenPhiTruong_2122110563.Data;
-using NguyenPhiTruong_2122110563.Model;
+using NguyenPhiTruong_2122110563.Dto;
 
 namespace NguyenPhiTruong_2122110563.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BrandController : ControllerBase
@@ -23,65 +23,95 @@ namespace NguyenPhiTruong_2122110563.Controllers
 
         // GET: api/Brand
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Brand>>> GetBrands()
+        public async Task<ActionResult<IEnumerable<BrandDto>>> GetBrands()
         {
-            return await _context.Brands.ToListAsync();
+            var brands = await _context.Brands
+                .Include(b => b.Products)
+                .Select(b => new BrandDto
+                {
+                    BrandId = b.BrandId,
+                    BrandName = b.BrandName,
+                    Products = b.Products.Select(p => new ProductDto
+                    {
+                        ProductId = p.ProductId,
+                        ProductName = p.ProductName,
+                        Image = p.Image,
+                        Price = p.Price,
+                        PriceSale = p.PriceSale,
+                        Content = p.Content,
+                        CreatedAt = p.CreatedAt,
+                        UpdatedAt = p.UpdatedAt
+                    }).ToList()
+                })
+                .ToListAsync();
+
+            return Ok(brands);
         }
 
         // GET: api/Brand/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Brand>> GetBrand(int id)
+        public async Task<ActionResult<BrandDto>> GetBrand(int id)
         {
-            var brand = await _context.Brands.FindAsync(id);
+            var brand = await _context.Brands
+                .Include(b => b.Products)
+                .Where(b => b.BrandId == id)
+                .Select(b => new BrandDto
+                {
+                    BrandId = b.BrandId,
+                    BrandName = b.BrandName,
+                    Products = b.Products.Select(p => new ProductDto
+                    {
+                        ProductId = p.ProductId,
+                        ProductName = p.ProductName,
+                        Image = p.Image,
+                        Price = p.Price,
+                        PriceSale = p.PriceSale,
+                        Content = p.Content,
+                        CreatedAt = p.CreatedAt,
+                        UpdatedAt = p.UpdatedAt
+                    }).ToList()
+                })
+                .FirstOrDefaultAsync();
 
             if (brand == null)
             {
                 return NotFound();
             }
 
-            return brand;
-        }
-
-        // PUT: api/Brand/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutBrand(int id, Brand brand)
-        {
-            if (id != brand.BrandId)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(brand).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!BrandExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
+            return Ok(brand);
         }
 
         // POST: api/Brand
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Brand>> PostBrand(Brand brand)
+        public async Task<ActionResult> PostBrand([FromBody] BrandDto brandDto)
         {
+            var brand = new Model.Brand
+            {
+                BrandName = brandDto.BrandName
+            };
+
             _context.Brands.Add(brand);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetBrand", new { id = brand.BrandId }, brand);
+            return CreatedAtAction(nameof(GetBrand), new { id = brand.BrandId }, brand);
+        }
+
+        // PUT: api/Brand/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutBrand(int id, [FromBody] BrandDto brandDto)
+        {
+            var brand = await _context.Brands.FindAsync(id);
+            if (brand == null)
+            {
+                return NotFound();
+            }
+
+            brand.BrandName = brandDto.BrandName;
+            _context.Entry(brand).State = EntityState.Modified;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
         }
 
         // DELETE: api/Brand/5
@@ -98,11 +128,6 @@ namespace NguyenPhiTruong_2122110563.Controllers
             await _context.SaveChangesAsync();
 
             return NoContent();
-        }
-
-        private bool BrandExists(int id)
-        {
-            return _context.Brands.Any(e => e.BrandId == id);
         }
     }
 }

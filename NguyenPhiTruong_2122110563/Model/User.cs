@@ -9,5 +9,7 @@
 
         // Một User có thể có nhiều Product (nếu bạn muốn quản lý sản phẩm theo user)
         public List<Product> Products { get; set; } = new List<Product>();
+        public List<Order> Orders { get; set; } = new List<Order>();
+
     }
 }
