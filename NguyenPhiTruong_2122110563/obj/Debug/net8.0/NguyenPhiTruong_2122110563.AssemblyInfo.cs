@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NguyenPhiTruong_2122110563")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23e454cd0329e714fcf8dc4f22d8f544cadb697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61d6a906c437046ba5bf10ce42f06a057c5c8a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NguyenPhiTruong_2122110563")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NguyenPhiTruong_2122110563")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
